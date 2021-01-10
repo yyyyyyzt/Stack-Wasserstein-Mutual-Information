@@ -2,6 +2,8 @@
 
 高级计算机视觉课程实验代码
 
+根据文本生成图片, 源于基础StackGAN: [StackGAN-v2](https://github.com/hanzhanggit/StackGAN-v2)
+
 ## 安装依赖
 
 python > 3
