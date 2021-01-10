@@ -51,4 +51,4 @@ code/cfg/eval_birds.yml中有定义model路径
 
 ## 结果
 
-![](images/result.png)
+![](images/result.jpg)
