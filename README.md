@@ -1,4 +1,4 @@
-# Stack-WGAN
+# Stack-Wasserstein and Mutual-Information
 
 ## 安装依赖
 
