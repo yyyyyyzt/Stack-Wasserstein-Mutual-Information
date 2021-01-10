@@ -1,5 +1,7 @@
 # Stack-Wasserstein and Mutual-Information
 
+高级计算机视觉课程实验代码
+
 ## 安装依赖
 
 python > 3
